@@ -1,0 +1,3 @@
+#+TITLE: Odin Recipes
+
+This project is to record my skills learned from the Odin Project.
